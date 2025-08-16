@@ -7,7 +7,7 @@
 
 - Over a decade of cryptocurrency, software engineering, and cybersecurity expertise since 2011.
 - BS & MS in Cybersecurity from the University of South Florida.
-- Led NEAR blockchain integration for Chainlink Labs and scaled institutional digital asset trading platforms from ideation to production.
+- Led integrations for Chainlink Labs and scaled institutional digital asset platforms from ideation to production.
 - Expert in Rust, smart contract security, and Lightning Network protocols.
 
 </details>
@@ -39,6 +39,7 @@
 - [Orly #4](https://github.com/mleku/orly/pull/4)
 - [Orly #5](https://github.com/mleku/orly/pull/5)
 - [Orly #8](https://github.com/mleku/orly/pull/8)
+- [Orly #10](https://github.com/mleku/orly/pull/10)
 
 ### Bitcoin Development Kits
 - [BDK #2006](https://github.com/bitcoindevkit/bdk/pull/2006)
