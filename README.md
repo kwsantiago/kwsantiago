@@ -53,6 +53,12 @@
 - [chainlink-fun #1](https://github.com/itsdevcoffee/chainlink-fun/pull/1)
 - [RandomWinner Chainlink VRF](https://github.com/kwsantiago/RandomWinner-ChainlinkVRF)
 
+### Hackathons
+- [PrepAI](https://github.com/kwsantiago/PrepAI) - AI-powered interview preparation platform
+- [Chainlink-OTP](https://github.com/kwsantiago/Chainlink-OTP) - One-time password system using Chainlink oracles
+- [HelloWorld-Polkadot-Hackathon](https://github.com/kwsantiago/HelloWorld-Polkadot-Hackathon/tree/main) - Polkadot ecosystem exploration project
+- [MMM-spectraAI](https://github.com/nimius-debug/MMM-spectraAI) - AI-powered MagicMirror module
+
 ### Bitcoin & Blockchain Research
 - [Blockchain Signature Parser](https://github.com/kwsantiago/Blockchain-Sig-Parser) - Developed a signature bias detection tool used in academic research for identifying nonce vulnerabilities
 
