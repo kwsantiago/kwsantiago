@@ -21,6 +21,7 @@
 - [Lightning Network Daemon (LND) #10091](https://github.com/lightningnetwork/lnd/pull/10091)
 - [Greenlight #612](https://github.com/Blockstream/greenlight/pull/612)
 - [Core Lightning #8435](https://github.com/ElementsProject/lightning/pull/8435)
+- [Lightning BOLTs #1278](https://github.com/lightning/bolts/pull/1278)
 
 ### Developer Tools & AI
 - [Goose #3378](https://github.com/block/goose/pull/3378)
