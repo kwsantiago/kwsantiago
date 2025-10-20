@@ -18,10 +18,15 @@
 
 ### Bitcoin & Lightning Network
 - [Bitcoin Knots #154](https://github.com/bitcoinknots/bitcoin/pull/154)
+- [Bitcoin Knots #215](https://github.com/bitcoinknots/bitcoin/pull/215)
+- [Bitcoin Knots #214](https://github.com/bitcoinknots/bitcoin/pull/214)
 - [Lightning Network Daemon (LND) #10091](https://github.com/lightningnetwork/lnd/pull/10091)
 - [Greenlight #612](https://github.com/Blockstream/greenlight/pull/612)
 - [Core Lightning #8435](https://github.com/ElementsProject/lightning/pull/8435)
 - [Lightning BOLTs #1278](https://github.com/lightning/bolts/pull/1278)
+- [Sparrow #1854](https://github.com/sparrowwallet/sparrow/pull/1854)
+- [Alby Hub #1847](https://github.com/getAlby/hub/pull/1847)
+- [OCEAN #156](https://github.com/OCEAN-xyz/datum_gateway/pull/156)
 
 ### Developer Tools & AI
 - [Goose #3378](https://github.com/block/goose/pull/3378)
@@ -31,12 +36,16 @@
 ### Mobile Applications
 - [Zeus Lightning Wallet #3154](https://github.com/ZeusLN/zeus/pull/3154)
 - [BitChat Android #178](https://github.com/permissionlesstech/bitchat-android/pull/178)
+- [Bull Bitcoin Mobile #1345](https://github.com/SatoshiPortal/bullbitcoin-mobile/pull/1345)
 
 ### Nostr
 - [Routstr Core #78](https://github.com/Routstr/routstr-core/pull/78)
+- [Routstr Core #189](https://github.com/Routstr/routstr-core/pull/189)
 - [Routstr Chat #46](https://github.com/Routstr/routstr-chat/pull/46)
-- [Routstr Chat #58](https://github.com/Routstr/routstr-chat/pull/58)
+- [Routstr Chat #67](https://github.com/Routstr/routstr-chat/pull/67)
+- [Routstr Chat #72](https://github.com/Routstr/routstr-chat/pull/72)
 - [Sixty Nuts #32](https://github.com/Routstr/sixty-nuts/pull/32)
+- [Amber #255](https://github.com/greenart7c3/Amber/pull/255)
 - [Orly #4](https://github.com/mleku/orly/pull/4)
 - [Orly #5](https://github.com/mleku/orly/pull/5)
 - [Orly #8](https://github.com/mleku/orly/pull/8)
