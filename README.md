@@ -39,13 +39,13 @@
 - [Bull Bitcoin Mobile #1345](https://github.com/SatoshiPortal/bullbitcoin-mobile/pull/1345)
 
 ### Nostr
+- [Amber #255](https://github.com/greenart7c3/Amber/pull/255)
 - [Routstr Core #78](https://github.com/Routstr/routstr-core/pull/78)
 - [Routstr Core #189](https://github.com/Routstr/routstr-core/pull/189)
 - [Routstr Chat #46](https://github.com/Routstr/routstr-chat/pull/46)
 - [Routstr Chat #67](https://github.com/Routstr/routstr-chat/pull/67)
 - [Routstr Chat #72](https://github.com/Routstr/routstr-chat/pull/72)
 - [Sixty Nuts #32](https://github.com/Routstr/sixty-nuts/pull/32)
-- [Amber #255](https://github.com/greenart7c3/Amber/pull/255)
 - [Orly #4](https://github.com/mleku/orly/pull/4)
 - [Orly #5](https://github.com/mleku/orly/pull/5)
 - [Orly #8](https://github.com/mleku/orly/pull/8)
